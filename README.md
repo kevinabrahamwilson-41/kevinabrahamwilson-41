@@ -1,5 +1,5 @@
 # Kevin Abraham Wilson
-### Hallo, I'm Kevin. My work focuses on high-performance deep learning systems, GPU computing, post-quantum cryptography, and privacy-preserving neural inference.
+### Hallo, I'm Kevin. My work focuses on high-performance deep learning systems, GPU computing and post-quantum cryptography.
 <br clear="both">
 
 <div align="center">
