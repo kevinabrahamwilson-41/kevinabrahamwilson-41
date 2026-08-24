@@ -1,5 +1,6 @@
 # Kevin Abraham Wilson
 ### Hallo, I'm Kevin. My work focuses on GPU runtime systems, inference optimization, and FGPA development for AI Accelerators.
+## [Linkedin]([url](https://www.linkedin.com/in/kevinabrahamwilson/))
 <br clear="both">
 
 <div align="center">
