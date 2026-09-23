@@ -3,10 +3,6 @@
 ## [LinkedIn](https://www.linkedin.com/in/kevinabrahamwilson/)
 <br clear="both">
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kevinabrahamwilson-41&" height="150" alt="activity-graph graph"  />
-</div>
-
 ###
 
 <div align="left">
