@@ -22,8 +22,8 @@
 
 ## Selected Open Source Repositories
 
-*   [`Llama Transformer Runtime`](https://github.com/kevinabrahamwilson-41/llama-transformer-runtime.git) – A raw CUDA C++ inference engine for LLM transformers.
-*   [`Custom CUDA FlashAttention-V2 Kernel`](https://github.com/kevinabrahamwilson-41/flashattentionV2-cuda.git) – A custom CUDA implementation of FlashAttention-2-style exact attention.
+*   [`Llama Transformer Runtime`](https://github.com/kevinabrahamwilson-41/llama-transformer-runtime.git) – A raw CUDA C++ inference engine for Llama class transformers.
+*   [`Custom CUDA FlashAttention-V2 Kernel`](https://github.com/kevinabrahamwilson-41/flashattentionV2-cuda.git) – A custom CUDA implementation of FlashAttention-2-style forward attention kernel.
 *   [`GPU-Accelerated CNN Inference Pipeline`](https://github.com/kevinabrahamwilson-41/gpu_cnn_inference_pipeline.git)) – A High-Performance GPU Inference Pipeline for training & inference EfficientNet models.
 *   [`GPU-Accelerated 2D Black–Scholes PDE Solver`](https://github.com/kevinabrahamwilson-41/black-scholes-pde-solver.git) – A 2D numerical solver using the Finite Difference Method for multi-asset option pricing.
 
