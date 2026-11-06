@@ -1,6 +1,6 @@
 # Kevin Abraham Wilson
 
-**Deep Learning Systems Engineer** focusing on high-performance computing, custom GPU kernels, and edge AI hardware acceleration. 
+### **Deep Learning Systems Engineer** focusing on high-performance computing, custom GPU kernels, and edge AI hardware acceleration. 
 
 [LinkedIn](https://www.linkedin.com/in/kevinabrahamwilson/) • [Email](mailto:kevinabrahamwilson8@gmail.com) • [Curriculum Vitae](AI_CV.pdf)
 
