@@ -8,9 +8,9 @@
 
 ## Technical Focus
 
-*   **Programming Languages:** CUDA C/C++, C++, Python, Bash
+*   **Programming Languages:** CUDA C++, C++, Python, Bash
 *   **GPU Computing:** CUDA Toolkit, NVCC, cuBLAS, PyCUDA, Parallel Programming
-*   **Deep Learning & Inference:** PyTorch, PyTorch Lightning, TensorRT, ONNX, ONNX Runtime
+*   **Deep Learning & Inference:** PyTorch, PyTorch Lightning, JAX, TensorRT, ONNX, ONNX Runtime
 *   **Profiling & Optimization:** NVIDIA Nsight Compute, Nsight Systems, Weights & Biases
 *   **Systems & Tools:** Linux, Docker, NVIDIA Container Toolkit, CMake, FastAPI
 
